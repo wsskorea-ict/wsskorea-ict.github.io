@@ -83,4 +83,4 @@ Validation이 성공했으면 하단 좌측의 `Create`를 클릭합니다.
 
 ![Complete to create a new tenant]({{ site.url }}{{ site.baseurl }}/assets/images/posts/email-project-01-generate-azure-ad-tenant/10.png)
 
-새로운 테넌트 생성이 완료되었습니다. 설정했었던 Organization Name이었던 **wsskore**가 잘 나오네요.
+새로운 테넌트 생성이 완료되었습니다. 설정했었던 Organization Name이었던 **wsskorea**가 잘 나오네요.
